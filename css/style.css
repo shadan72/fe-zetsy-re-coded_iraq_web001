@@ -12,12 +12,12 @@ h1{
     font-family: 'Baskerville', serif;
     border-bottom: 1px solid #ccc;
 }
-a {
-    background: transparent;
-}
 header a {
     color: rgb(152,173,166);
-    text-decoration: none;}
+    text-decoration: none;}a {
+    background: transparent;
+}
+
 /*////////// Global Styles //////////*/
 
 body {
